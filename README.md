@@ -1,6 +1,5 @@
 # Introduction to Python
 
-Welcome to the "Introduction to Python" course, in collaboration with [AI+ Training](https://aiplus.training) and ODSC [(Open Data Science Conference)](https://www.odsc.com)! This course offers a comprehensive dive into the foundational concepts of Python, tailored specifically for enthusiasts venturing into the realm of Artificial Intelligence (AI).
 
 🐍 Why Python for AI?
 Python stands as the lingua franca of AI and data science, thanks to its simplicity, versatility, and the vast ecosystem of libraries and frameworks it offers. Whether you're an AI novice or looking to solidify your Python foundations, this course is designed with you in mind.
